@@ -1,0 +1,184 @@
+[
+    {
+        "clubId": 1,
+        "name": "Microsoft Learn Student Club",
+        "category": "Technical",
+        "description": "Student community fostering Azure cloud, AI, web tech and Microsoft certifications.",
+        "leadAdminEmail": "club1@example.com"
+    },
+    {
+        "clubId": 2,
+        "name": "Google Developer Student Clubs (GDSC)",
+        "category": "Technical",
+        "description": "University based community group for students interested in Google developer technologies, Android, Flutter, and Firebase.",
+        "leadAdminEmail": "club2@example.com"
+    },
+    {
+        "clubId": 3,
+        "name": "IEEE VIT, Pune",
+        "category": "Technical",
+        "description": "Premier international technical student branch organizing hackathons, research symposiums, and engineering conferences.",
+        "leadAdminEmail": "club3@example.com"
+    },
+    {
+        "clubId": 4,
+        "name": "CSI VIT, Pune (Computer Society of India)",
+        "category": "Technical",
+        "description": "Pioneering computer science forum organizing cybersecurity summits, code contests, and technical workshops.",
+        "leadAdminEmail": "club4@example.com"
+    },
+    {
+        "clubId": 5,
+        "name": "ISA VIT, Pune",
+        "category": "Technical",
+        "description": "International Society of Automation collegiate branch dedicated to instrumentation, control systems, and industrial IoT.",
+        "leadAdminEmail": "club5@example.com"
+    },
+    {
+        "clubId": 6,
+        "name": "SAE Collegiate Club / Team Griffin India (Aviation & SAE)",
+        "category": "Technical",
+        "description": "Student aerospace and automotive engineering team designing RC aircraft, UAVs, and SAE aero design prototypes.",
+        "leadAdminEmail": "club6@example.com"
+    },
+    {
+        "clubId": 7,
+        "name": "Team Endurance Racing",
+        "category": "Technical",
+        "description": "Official Formula Student combustion racing team designing, fabricating, and racing high-performance single-seater cars.",
+        "leadAdminEmail": "club7@example.com"
+    },
+    {
+        "clubId": 8,
+        "name": "Team Veloce Racing",
+        "category": "Technical",
+        "description": "Formula Student Electric racing team building advanced battery electric race cars and telemetry systems.",
+        "leadAdminEmail": "club8@example.com"
+    },
+    {
+        "clubId": 9,
+        "name": "Team Vishwa Racers (BAJA)",
+        "category": "Technical",
+        "description": "All-terrain vehicle (ATV) off-road engineering team competing nationally in BAJA SAE events.",
+        "leadAdminEmail": "club9@example.com"
+    },
+    {
+        "clubId": 10,
+        "name": "Team Vishwanetrutvam",
+        "category": "Technical",
+        "description": "Student vehicle team developing energy-efficient, electric and alternative propulsion mobility solutions.",
+        "leadAdminEmail": "club10@example.com"
+    },
+    {
+        "clubId": 11,
+        "name": "GedIT Coding Club",
+        "category": "Technical",
+        "description": "Premier algorithmic problem solving, competitive programming, and open-source software engineering club.",
+        "leadAdminEmail": "club11@example.com"
+    },
+    {
+        "clubId": 12,
+        "name": "TRF – The Robotics Forum",
+        "category": "Technical",
+        "description": "Interdisciplinary robotics forum developing combat bots, automated rovers, drones, and competing in national Robocon.",
+        "leadAdminEmail": "club12@example.com"
+    },
+    {
+        "clubId": 13,
+        "name": "ByteForge Club (ENTC)",
+        "category": "Technical",
+        "description": "Electronics and Telecommunication engineering club exploring embedded hardware, VLSI, microcontrollers, and FPGA.",
+        "leadAdminEmail": "club13@example.com"
+    },
+    {
+        "clubId": 14,
+        "name": "Innovsphere / COMPSA",
+        "category": "Technical",
+        "description": "Computer Engineering Students Association driving innovation sprints, industry tech-talks, and technical conferences.",
+        "leadAdminEmail": "club14@example.com"
+    },
+    {
+        "clubId": 15,
+        "name": "AISA (AI Students Forum)",
+        "category": "Technical",
+        "description": "Applied Artificial Intelligence, deep learning, NLP, computer vision, and GenAI student research forum.",
+        "leadAdminEmail": "club15@example.com"
+    },
+    {
+        "clubId": 16,
+        "name": "CHESA (Chemistry / Science)",
+        "category": "Technical",
+        "description": "Chemical Engineering Students Association exploring industrial chemistry, sustainable energy, and process design.",
+        "leadAdminEmail": "club16@example.com"
+    },
+    {
+        "clubId": 17,
+        "name": "SIG Reality Spectra (AR/VR)",
+        "category": "Technical",
+        "description": "Special Interest Group creating immersive Augmented Reality, Virtual Reality, Unity 3D, and spatial computing projects.",
+        "leadAdminEmail": "club17@example.com"
+    },
+    {
+        "clubId": 18,
+        "name": "Team Quark",
+        "category": "Technical",
+        "description": "Autonomous robotics and rover innovation team engineering robotic manipulators and planetary exploration rovers.",
+        "leadAdminEmail": "club18@example.com"
+    },
+    {
+        "clubId": 19,
+        "name": "Student Council",
+        "category": "Co-Curricular",
+        "description": "Official apex student body representing campus activities, inter-collegiate festivals, sports councils, and student welfare.",
+        "leadAdminEmail": "club19@example.com"
+    },
+    {
+        "clubId": 20,
+        "name": "Rangmanch (Filmmaking club)",
+        "category": "Cultural",
+        "description": "Campus cinematic society dedicated to filmmaking, screenplay writing, cinematography, photography, and video editing.",
+        "leadAdminEmail": "club20@example.com"
+    },
+    {
+        "clubId": 21,
+        "name": "Viculp (Drama and performance)",
+        "category": "Cultural",
+        "description": "Vibrant theatrical and street play club promoting dramatic arts, stage acting, skits, and cultural performances.",
+        "leadAdminEmail": "club21@example.com"
+    },
+    {
+        "clubId": 22,
+        "name": "Yuj (Yoga and mindfulness)",
+        "category": "Wellness",
+        "description": "Campus wellness and mindfulness initiative promoting holistic health, yoga practices, and mental well-being.",
+        "leadAdminEmail": "club22@example.com"
+    },
+    {
+        "clubId": 23,
+        "name": "The Personality Development Club",
+        "category": "Personality",
+        "description": "Communication, public speaking, soft skills, GD-PI preparation, and professional leadership guild.",
+        "leadAdminEmail": "club23@example.com"
+    },
+    {
+        "clubId": 24,
+        "name": "VishwaConclave",
+        "category": "Co-Curricular",
+        "description": "Flagship annual conclave bringing distinguished thought leaders, entrepreneurs, bureaucrats, and visionaries to campus.",
+        "leadAdminEmail": "club24@example.com"
+    },
+    {
+        "clubId": 25,
+        "name": "Club Catalyst",
+        "category": "Co-Curricular",
+        "description": "Social impact, environment sustainability, community outreach, and student leadership catalysts.",
+        "leadAdminEmail": "club25@example.com"
+    },
+    {
+        "clubId": 26,
+        "name": "Ekasutram",
+        "category": "Cultural",
+        "description": "Indian classical heritage, indigenous arts, music, and literary cultural council of VIT Pune.",
+        "leadAdminEmail": "club26@example.com"
+    }
+]

@@ -1,0 +1,11 @@
+#include "users/MemberStudent.h"
+
+// INHERITANCE: Initializes student fields with fixed "member" membership status.
+MemberStudent::MemberStudent(int id, const std::string& name, const std::string& email, const std::string& rawPassword,
+                             const std::string& rollNo, const std::string& department, bool isHashed)
+    : Student(id, name, email, rawPassword, rollNo, department, "member", isHashed) {}
+
+// POLYMORPHISM: Standard fee calculation - price is uniform for all students.
+double MemberStudent::calculateFee(double baseFee) const {
+    return baseFee;
+}

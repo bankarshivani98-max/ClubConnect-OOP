@@ -1,0 +1,15 @@
+# Binaries
+clubconnect
+clubconnect.exe
+*.exe
+*.o
+*.obj
+clubconnect-oop15
+
+# VS Code / IDE
+.vscode/*
+!.vscode/tasks.json
+
+# OS files
+Thumbs.db
+.DS_Store

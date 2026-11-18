@@ -1,0 +1,236 @@
+[
+    {
+        "email": "superadmin@example.com",
+        "id": 1,
+        "isHashed": true,
+        "name": "Demo Super Admin",
+        "password": "12abaaee4e827134",
+        "role": "SuperAdmin"
+    },
+    {
+        "clubName": "GedIT Coding Club",
+        "email": "admin.coding@example.com",
+        "id": 2,
+        "isHashed": true,
+        "name": "Demo Club Admin",
+        "password": "eac1bf7c3a9ccb97",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "TRF – The Robotics Forum",
+        "email": "admin.robotics@example.com",
+        "id": 3,
+        "isHashed": true,
+        "name": "Demo Robotics Admin",
+        "password": "fdc6044b9562b9e4",
+        "role": "ClubAdmin"
+    },
+    {
+        "department": "Computer Science",
+        "email": "student@example.com",
+        "id": 4,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student",
+        "password": "e155ef7a0361fff5",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-004"
+    },
+    {
+        "department": "Electronics",
+        "email": "student5@example.com",
+        "id": 5,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 5",
+        "password": "e155ef7a0361fff5",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-005"
+    },
+    {
+        "department": "Information Technology",
+        "email": "student6@example.com",
+        "id": 6,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 6",
+        "password": "e155ef7a0361fff5",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-006"
+    },
+    {
+        "department": "Mechanical",
+        "email": "student7@example.com",
+        "id": 7,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 7",
+        "password": "e155ef7a0361fff5",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-007"
+    },
+    {
+        "department": "CS",
+        "email": "student8@example.com",
+        "id": 8,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 8",
+        "password": "fa546989d0812b0d",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-008"
+    },
+    {
+        "department": "Computer Science",
+        "email": "student9@example.com",
+        "id": 9,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 9",
+        "password": "ebb01f2b2082798c",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-009"
+    },
+    {
+        "department": "Computer Science",
+        "email": "student10@example.com",
+        "id": 10,
+        "isHashed": true,
+        "membership": "guest",
+        "name": "Demo Student 10",
+        "password": "4d41537fd0609d2d",
+        "role": "Student",
+        "rollNo": "DEMO-ROLL-010"
+    },
+    {
+        "clubName": "AISA (AI Students Forum)",
+        "email": "admin11@example.com",
+        "id": 11,
+        "isHashed": true,
+        "name": "Demo Club Admin 11",
+        "password": "9409e571b7d80b46",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "Rangmanch (Filmmaking club)",
+        "email": "admin17@example.com",
+        "id": 17,
+        "isHashed": true,
+        "name": "Demo Club Admin 17",
+        "password": "ce3fb8101e2dfc89",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "Student Council",
+        "email": "admin18@example.com",
+        "id": 18,
+        "isHashed": true,
+        "name": "Demo Club Admin 18",
+        "password": "8362c1bccfdee788",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "Google Developer Student Clubs (GDSC)",
+        "email": "admin19@example.com",
+        "id": 19,
+        "isHashed": true,
+        "name": "Demo Club Admin 19",
+        "password": "9697df4e89bb0bc3",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "CSI VIT, Pune (Computer Society of India)",
+        "email": "admin20@example.com",
+        "id": 20,
+        "isHashed": true,
+        "name": "Demo Club Admin 20",
+        "password": "6f649b4516bfacc7",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "SAE Collegiate Club / Team Griffin India (Aviation & SAE)",
+        "email": "admin21@example.com",
+        "id": 21,
+        "isHashed": true,
+        "name": "Demo Club Admin 21",
+        "password": "c3027b41967088de",
+        "role": "ClubAdmin"
+    },
+    {
+        "email": "admin12@example.com",
+        "id": 12,
+        "isHashed": true,
+        "name": "Demo Super Admin 12",
+        "password": "a6f1d7d053476c1",
+        "role": "SuperAdmin"
+    },
+    {
+        "clubName": "TRF – The Robotics Forum",
+        "email": "admin13@example.com",
+        "id": 13,
+        "isHashed": true,
+        "name": "Demo Club Admin 13",
+        "password": "5426a455a4510374",
+        "role": "ClubAdmin"
+    },
+    {
+        "email": "admin14@example.com",
+        "id": 14,
+        "isHashed": true,
+        "name": "Demo Super Admin 14",
+        "password": "26fe75faa69b6e74",
+        "role": "SuperAdmin"
+    },
+    {
+        "email": "admin15@example.com",
+        "id": 15,
+        "isHashed": true,
+        "name": "Demo Super Admin 15",
+        "password": "26fe75faa69b6e74",
+        "role": "SuperAdmin"
+    },
+    {
+        "email": "admin16@example.com",
+        "id": 16,
+        "isHashed": true,
+        "name": "Demo Super Admin 16",
+        "password": "8a4c58c159fa8038",
+        "role": "SuperAdmin"
+    },
+    {
+        "clubName": "Viculp (Drama and performance)",
+        "email": "admin22@example.com",
+        "id": 22,
+        "isHashed": true,
+        "name": "Demo Club Admin 22",
+        "password": "5426a455a4510374",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "TRF - The Robotics Forum",
+        "email": "admin23@example.com",
+        "id": 23,
+        "isHashed": true,
+        "name": "Demo Club Admin 23",
+        "password": "9c4e30a8453f05b0",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "GedIT Coding Club",
+        "email": "admin24@example.com",
+        "id": 24,
+        "isHashed": true,
+        "name": "Demo Club Admin 24",
+        "password": "9c4e30a8453f05b0",
+        "role": "ClubAdmin"
+    },
+    {
+        "clubName": "Rangmanch (Filmmaking club)",
+        "email": "admin25@example.com",
+        "id": 25,
+        "isHashed": true,
+        "name": "Demo Club Admin 25",
+        "password": "20d5d40af94dbeec",
+        "role": "ClubAdmin"
+    }
+]
